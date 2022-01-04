@@ -1,6 +1,6 @@
 {
   "name": "@tufu/stylelint",
-  "version": "0.0.5-beta.0",
+  "version": "0.0.6-beta.0",
   "main": "index.js",
   "author": "Przeblysk <przeblysk@163.com>",
   "description": "stylelint 样式统一规范工具库",
@@ -47,5 +47,5 @@
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^22.0.0"
   },
-  "gitHead": "03ff9b54229fd632d6a734a6e5d3aa370dd7a190"
+  "gitHead": "1ee22358fc48cb737ccaf37f3d2e15c029b1bfee"
 }
