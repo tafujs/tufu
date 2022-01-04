@@ -1,6 +1,6 @@
 {
   "name": "@tufu/eslint",
-  "version": "0.0.4-beta.0",
+  "version": "0.0.5-beta.0",
   "main": "index.js",
   "author": "Przeblysk <przeblysk@163.com>",
   "description": "eslint 代码统一规范工具库",
@@ -57,5 +57,6 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0"
-  }
+  },
+  "gitHead": "03ff9b54229fd632d6a734a6e5d3aa370dd7a190"
 }
