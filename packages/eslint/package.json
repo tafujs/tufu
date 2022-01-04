@@ -1,6 +1,6 @@
 {
-  "name": "tufu-eslint",
-  "version": "0.0.8-beta.0",
+  "name": "@tufu/eslint",
+  "version": "0.0.11-beta.0",
   "main": "index.js",
   "author": "Przeblysk <przeblysk@163.com>",
   "description": "eslint 代码统一规范工具库",
